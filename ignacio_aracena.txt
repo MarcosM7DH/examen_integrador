@@ -1,1 +1,5 @@
 Ignacio Aracena
+
+¿El archivo readme.md es el mismo en todas las branch?
+
+Si, es el mismo en todas las branch porque es el archivo que se muestra en la página principal del repositorio.
