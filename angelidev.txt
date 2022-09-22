@@ -1,1 +1,5 @@
 Angelica Rojas
+
+Si, el archivo README es exactamente el mismo(Porque la rama es una copia de main).
+
+sudo apt remove program
